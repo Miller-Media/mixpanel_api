@@ -1,3 +1,5 @@
+Note: This has been forked to add support for Python 3. If this works, we will consider actively maintaining.
+
 # Mixpanel-api Module
 
 ### Table of Contents
